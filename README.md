@@ -1,4 +1,3 @@
-In this project, you must work with the given dataset to answer the following questions:
 
 Combine the train and test datasets (By Coding), and then develop the following:
 
